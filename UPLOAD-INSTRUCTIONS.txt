@@ -1,0 +1,8 @@
+COGINCHAUG BENCHWARMERS WEBSITE
+
+1. Extract this ZIP before opening or uploading the website.
+2. Keep index.html, scholarships.html, history.html, CNAME, .nojekyll, and the images and documents folders together.
+3. Open index.html to view the website.
+4. For GitHub Pages, upload every extracted file and both complete folders to the repository root. Keep CNAME there so coginchaugbenchwarmers.com stays connected.
+
+Do not upload index.html by itself. The pages use relative links to the images and documents folders.
